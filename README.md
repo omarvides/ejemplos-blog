@@ -6,4 +6,4 @@
 
 | Publicación del blog                                       | Directorios    |
 | -------------                                              |:-------------: |
-| https://omarvides.github.io/post/usar-linter-mejor-codigo/ | ejemplo linter |
+| https://omarvides.github.io/post/usar-linter-mejor-codigo/ | ejemplo-linter |
