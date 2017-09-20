@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-linter",
+  "version": "1.0.0",
+  "description": "Un ejemplo para usar eslint en visual code",
+  "main": "index.js",
+  "author": "Omar Vides",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "express": "3.0",
+    "request": "^2.81.0"
+  }
+}
